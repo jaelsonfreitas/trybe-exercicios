@@ -15,14 +15,14 @@
   .baloon {
     position: absolute;
     top: 250px;
-    left: 400px;
+    left: 300px;
   }
   
   .speach {
     font-size: 25px;
     position: absolute;
     top: 290px; 
-    left: 420px;
+    left: 320px;
     z-index: 2;
 
 
@@ -30,4 +30,7 @@
   
   .bowser {
     width: 200px;
+    position:absolute ;
+    top: 370px;
+    left: 575px;
   }
