@@ -1,9 +1,0 @@
-internet
-unix
-bash
-JavaScript
-Python
-GitHub
-HTML
-CSS
-Ciencia da Computação

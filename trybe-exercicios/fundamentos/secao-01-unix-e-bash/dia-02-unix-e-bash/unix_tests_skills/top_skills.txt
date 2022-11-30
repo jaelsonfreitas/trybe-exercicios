@@ -1,3 +1,0 @@
-bash
-Ciencia da Computação
-CSS
